@@ -1,1 +1,1 @@
-
+return {["1"]={["device"]="gsshdh",["password"]="1",["rank"]="VIP",["expiry"]="2026-12-31"}}
