@@ -1,1 +1,1 @@
-return {["1"]={["device"]="sh72726gkqk261",["password"]="1",["rank"]="XTRAVIP",["expiry"]="2026-12-31",["sid"]=""}}
+return {}
