@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "is_active": true,
+  "update_url": "MALIKX",
+  "new_name": "ABX",
+  "message": "🔥",
+  "maintenance": {
+    "is_under_maintenance": true,
+    "reason": "Server update in progress."
+  }
+}
