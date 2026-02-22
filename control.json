@@ -1,11 +1,12 @@
 {
-  "version": "1.0",
-  "is_active": true,
-  "update_url": "MALIKX",
-  "new_name": "ABX",
-  "message": "🔥",
-  "maintenance": {
-    "is_under_maintenance": true,
-    "reason": "Server update in progress."
-  }
+  "version": "1.1",
+  "is_active": "true",
+  "maintenance": "ON",
+  "maint_reason": "NOTHING",
+  "maint_timer": "NOTHING",
+  "news_title": "NO UPDATE",
+  "news_msg": "THIS SCRIPT IS TOTALY FREE IF ANYONE SELL IT THEN YOU GOT SCAMMED",
+  "update_url": "NO UPDATE",
+  "new_name": "ALL_IN_ONE_V1.1_VIP.lua",
+  "telegram": "t.me/malikabubakker"
 }
